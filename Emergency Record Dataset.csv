@@ -1,0 +1,65 @@
+Row Labels,Sum of patient_waittime
+African American,69472
+Cardiology,2030
+Gastroenterology,1386
+General Practice,14139
+Neurology,1518
+None,39504
+Orthopedics,8067
+Physiotherapy,2123
+Renal,705
+Asian,37386
+Cardiology,915
+Gastroenterology,736
+General Practice,6631
+Neurology,803
+None,22440
+Orthopedics,4065
+Physiotherapy,1389
+Renal,407
+Declined to Identify,35992
+Cardiology,794
+Gastroenterology,1089
+General Practice,7119
+Neurology,1079
+None,21007
+Orthopedics,3371
+Physiotherapy,1155
+Renal,378
+Native American/Alaska Native,17775
+Cardiology,618
+Gastroenterology,367
+General Practice,3785
+Neurology,630
+None,10057
+Orthopedics,1957
+Physiotherapy,244
+Renal,117
+Pacific Islander,19022
+Cardiology,582
+Gastroenterology,512
+General Practice,3649
+Neurology,464
+None,11122
+Orthopedics,1816
+Physiotherapy,723
+Renal,154
+Two or More Races,55052
+Cardiology,1684
+Gastroenterology,1013
+General Practice,11355
+Neurology,960
+None,33275
+Orthopedics,5212
+Physiotherapy,1259
+Renal,294
+White,90256
+Cardiology,2145
+Gastroenterology,1275
+General Practice,17561
+Neurology,1649
+None,53178
+Orthopedics,10320
+Physiotherapy,3199
+Renal,929
+Grand Total,324955
